@@ -1,3 +1,6 @@
 # Ubuntu VM Security Hardening
 
-  ### Update
+  ## 1. Update:
+     - Terminal
+     
+        'sudo apt update && sudo apt upgrade -y`
