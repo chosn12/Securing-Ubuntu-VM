@@ -6,7 +6,7 @@
      *`sudo apt update && sudo apt upgrade -y`*
 
 ## 2. Configuring Firewall For SSH:
-   - Terminal
+   - In Terminal
 
      *`sudo ufw enable`*
      
@@ -15,7 +15,9 @@
      *`sudo ufw allow ssh`*
 
 ## 3. Secure SSH Configuration:
-   - Edit **sshd_config** file:
+   - Copy and Edit **sshd_config** file:
 
-     *`
+     *`sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.local`*
+
+     *`sudo nano /etc/ssh/sshd_config`*
      
