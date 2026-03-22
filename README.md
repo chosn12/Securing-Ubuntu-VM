@@ -44,4 +44,4 @@
    - *`sudo apt install fail2ban`*
    - *`sudo systemctl enable fail2ban`*
 
-*** Test: Attempt root login from a client terminal -- Should fail. Check `/var/log/auth.log` ***
+**Test:** ***Attempt root login from a client terminal -- Should fail. Check `/var/log/auth.log`***
