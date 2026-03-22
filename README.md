@@ -39,7 +39,7 @@
      - Also set ***PublicKeyAuthenication yes*** (*if not set by default*)
 
 
-<img width="800" height="500" alt="sshd_config file edit" src="" />
+<img width="800" height="500" alt="sshd_config file edit" src="https://github.com/chosn12/Securing-Ubuntu-VM/blob/5407fa91f12010789bf219acbf2b42c1aa914ee6/doc/screenshots/Edit_sshd_config%20file.png" />
 
 ## 4. Install Fail2ban:
 
