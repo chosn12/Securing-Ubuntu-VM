@@ -39,6 +39,8 @@
      - Also set ***PublicKeyAuthenication yes*** (*if not set by default*)
 
 
+<img width="800" height="500" alt="sshd_config file edit" src="" />
+
 ## 4. Install Fail2ban:
 
    - *`sudo apt install fail2ban`*
