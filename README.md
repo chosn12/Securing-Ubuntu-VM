@@ -8,11 +8,12 @@
 ## 2. Configuring Firewall For SSH:
    - In Terminal
 
+     *`sudo ufw allow ssh`*
+     
      *`sudo ufw enable`*
      
      *`sudo ufw default deny incoming`*
      
-     *`sudo ufw allow ssh`*
 
 ## 3. Secure SSH Configuration:
    - Generate **Public and Privite Key** Pair:
