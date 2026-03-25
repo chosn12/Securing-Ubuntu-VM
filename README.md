@@ -61,4 +61,8 @@
 
 
 
-<img width="800" height="500" alt="fail2ban status" src="" />
+<img width="800" height="500" alt="root ssh login" src="" />
+
+
+
+<img width="800" height="500" alt="real-time log monitoring" src="" />
