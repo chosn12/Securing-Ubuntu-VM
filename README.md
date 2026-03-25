@@ -61,7 +61,7 @@
 
 
 
-<img width="800" height="500" alt="root ssh login" src="" />
+<img width="800" height="500" alt="root ssh login" src="https://github.com/chosn12/Securing-Ubuntu-VM/blob/50f3dd540c66a0a0153487db3e95e717d208846e/doc/screenshots/root%20ssh%20login.png" />
 
 
 
