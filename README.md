@@ -34,7 +34,8 @@
         - Type in user's password
         - The public key will be added
     
-   <img width="800" height="500" alt="key pairs saved" src="" />
+   <img width="800" height="500" alt="key pairs saved" src="https://github.com/chosn12/Securing-Ubuntu-VM/blob/e3e3e567b1b0e68c406d8341830840548d6e1261/doc/screenshots/key%20pairs%20saved.png" />
+   
 
    - Copy and Edit **sshd_config** file:
 
