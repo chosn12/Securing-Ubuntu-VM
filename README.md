@@ -15,7 +15,9 @@
      *`sudo ufw default deny incoming`*
 
 
-<img width="800" height="500" alt="firewall enabled for ssh" src="" />
+<img width="800" height="500" alt="firewall enabled for ssh" src="https://github.com/chosn12/Securing-Ubuntu-VM/blob/372c0b20d9a6d0c3a24a1269063ee1f5d6e37262/doc/screenshots/firewall%20enable%20for%20ssh%20only.png" />
+
+***The firewall is enabled and the only service allowing traffic is ssh***
  
 
 ## 3. Secure SSH Configuration:
@@ -31,6 +33,8 @@
       *`ssh-copy-id -i <path to key pair file>.pub user@<ip address>`*
         - Type in user's password
         - The public key will be added
+    
+   <img width="800" height="500" alt="key pairs saved" src="" />
 
    - Copy and Edit **sshd_config** file:
 
