@@ -65,4 +65,4 @@
 
 
 
-<img width="800" height="500" alt="real-time log monitoring" src="" />
+<img width="800" height="500" alt="real-time log monitoring" src="https://github.com/chosn12/Securing-Ubuntu-VM/blob/db6ae466e0a3de3f20ccc1fb92b7776e28a4c3e4/doc/screenshots/real-time%20log%20monitoring.png" />
