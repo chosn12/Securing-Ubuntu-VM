@@ -58,3 +58,7 @@
    - *`sudo systemctl enable fail2ban`*
 
 **Test:** ***Attempt root login from a client terminal -- Should fail. Check `/var/log/auth.log`***
+
+
+
+<img width="800" height="500" alt="fail2ban status" src="" />
