@@ -13,7 +13,10 @@
      *`sudo ufw enable`*
      
      *`sudo ufw default deny incoming`*
-     
+
+
+<img width="800" height="500" alt="firewall enabled for ssh" src="" />
+ 
 
 ## 3. Secure SSH Configuration:
    - Generate **Public and Privite Key** Pair:
